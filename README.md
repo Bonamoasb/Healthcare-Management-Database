@@ -9,4 +9,4 @@ He talked about how outdated a lot of their database systems were. This lead us 
 **About the Project**
 
 The functionalities included the ability for searching and storing of worker and patient information on an easy-to-use-display.
-The program utilized Java Netbeans to create a simple and intuitive UI for both patients and medical staff alike. 
+The program utilized Java Netbeans to create a simple and intuitive UI for both patients and medical staff alike and was hosted on a local database.
